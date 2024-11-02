@@ -1,0 +1,8 @@
+in the terminal we have to write <-- git config user.name "username" --> for giving username or if we want to use it globally we have write git config --global user.name "username".
+we have to write command  <-- git config user.emial "email" --> we have to give whatever the email we gave github account
+<--git init --> command is used for checking fot initial status
+<--git status--> command is used for ckecking is the file convert into repository or not
+<-- git add . -->is used for add files to the repositories
+git commit -m "we have to write whatever the changes we have done "command is used for save the changes
+<--git log--> is used for to check the chenages 
+
